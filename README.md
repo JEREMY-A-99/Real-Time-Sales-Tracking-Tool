@@ -22,13 +22,12 @@ Compilation
 Compile the program using the following command:
 
 bash
-Copy code
+
 gcc -o sales_tracker sales_tracker.c
 Running the Program
 Run the program with:
 
-bash
-Copy code
+
 ./sales_tracker
 Input Format
 First, input the number of products (n).
@@ -47,50 +46,5 @@ Quantity sold
 Total profit ($)
 Gross Margin (%)
 Displays total profit and average Gross Margin.
-Example Input
-plaintext
-Copy code
-5
-2001 100 150
-2002 80 130
-2003 120 180
-2004 70 90
-2005 50 75
-2001
-2002
-2001
-2003
-2003
-2003
-2002
--1
-2005
-2004
-2005
--2
 
-Example Output
 
-Sales:
-+---------+---------+------------+--------+
-| ID      | Sold    | Profit ($) | GM (%) |
-+---------+---------+------------+--------+
-| 2003    | 3       | 180        | 33.33  |
-| 2002    | 2       | 100        | 38.46  |
-| 2001    | 2       | 100        | 33.33  |
-+---------+---------+------------+--------+
-Total profit: $380
-Average GM: 34.62%
-
-Sales:
-+---------+---------+------------+--------+
-| ID      | Sold    | Profit ($) | GM (%) |
-+---------+---------+------------+--------+
-| 2003    | 3       | 180        | 33.33  |
-| 2002    | 2       | 100        | 38.46  |
-| 2001    | 2       | 100        | 33.33  |
-| 2005    | 2       | 50         | 33.33  |
-| 2004    | 1       | 20         | 22.22  |
-+---------+---------+------------+--------+
-Total profit: $450
-Average GM: 33.33%
