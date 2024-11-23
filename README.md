@@ -1,4 +1,5 @@
-CMPUT 201 LAB, University Of Alberta : 
+CMPUT 201 LAB, University Of Alberta :
+
 Product Sales Tracker
 Overview
 This program is designed to efficiently track and analyze product sales statistics in real-time, aiding in profit optimization for a retail business. It uses sorting and binary search algorithms to manage product data and display sales statistics dynamically based on live inputs.
