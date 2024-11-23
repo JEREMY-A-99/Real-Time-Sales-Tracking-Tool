@@ -70,8 +70,7 @@ Copy code
 -2
 
 Example Output
-plaintext
-Copy code
+
 Sales:
 +---------+---------+------------+--------+
 | ID      | Sold    | Profit ($) | GM (%) |
