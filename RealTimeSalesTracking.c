@@ -1,4 +1,8 @@
 /*
+CMPUT 201 LAB 2, University Of ALberta
+Program: Developed a program to efficiently track and analyze product sales statistics in real-time for profit optimization.
+Author: Jeremy Ajoku
+
 binary search from https://www.geeksforgeeks.org/binary-search/
 bubble sort from https://webdocs.cs.ualberta.ca/~ghlin/CMPUT201/bubblesort.c
 
